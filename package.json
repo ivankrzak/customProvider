@@ -7,8 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "chakra:generate-theme-typings": "chakra-cli tokens theme",
-    "postinstall": "npm run chakra:generate-theme-typings"
+    "chakra:generate-theme-typings": "chakra-cli tokens theme"
   },
   "dependencies": {
     "@chakra-ui/cli": "^1.5.1",
